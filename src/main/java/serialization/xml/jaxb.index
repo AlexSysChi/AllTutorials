@@ -1,0 +1,5 @@
+# this file is used instead of using ObjectFactory class
+# this file MUST be placed in the similar package with 'root' class
+# classes supposed to be marshaled to xml MUST be listed
+DataObject
+

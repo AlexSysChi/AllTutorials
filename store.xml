@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataObject id="100">
+    <i1>1</i1>
+    <i3>3</i3>
+    <myData>gogogo</myData>
+    <elems>
+        <customObjectList>
+            <i>10</i>
+        </customObjectList>
+        <customObjectList>
+            <i>20</i>
+        </customObjectList>
+        <customObjectList>
+            <i>30</i>
+        </customObjectList>
+    </elems>
+</dataObject>
